@@ -43,3 +43,15 @@ i{
     line-height: 1.9em;
     margin-bottom: 20px;
 }
+@import ""
+@media (max-width: 960px){
+  .container{
+    width: auto;
+  }
+  .colum{
+    float: none;
+    width: auto;
+  }
+
+}
+
